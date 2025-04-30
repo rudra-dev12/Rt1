@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>Memory Game For You | Aoudumber Bade </title>
+  <title>Memory Game For You | Rudra </title>
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
   <link rel="stylesheet" href="style.css"><script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.19/dist/sweetalert2.all.min.js"></script>
