@@ -244,7 +244,7 @@
 
     <div id="copy">
       <p class="text-center text-white text-sm">OG Creator <a
-        href="https://www.instagram.com/aoudumber.dev/reels/#">@aoudumber.dev</a></p>
+        dev</a></p>
       </div>
 
   <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
